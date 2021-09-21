@@ -58,8 +58,8 @@ function EncodeBinary(Text)
 local __l_I_llIX = RandomVariable(30)
 local __l_I_llIY = RandomVariable(30)
 --Load encode algorithm
-local keyO = math.random(1, 999999999)
-local keyT = math.random(1, 999999999)
+local keyO = math.random(1, 999999998)
+local keyT = math.random(1, 999999998)
     local Key53 = keyO
     local Key14 = keyT
   
